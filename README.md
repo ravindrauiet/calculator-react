@@ -1,3 +1,15 @@
+# Calculator App
+
+## Light Mode
+![Screenshot (5)](https://github.com/ravindrauiet/calculator-react/assets/98412688/eaa6d45c-8a4f-48c9-9f62-8cf9589db7ff)
+
+## -----------------------------------------------------------------------------------------------------------------------------
+
+## Dark Mode
+![Screenshot (6)](https://github.com/ravindrauiet/calculator-react/assets/98412688/a0f899d3-1cd2-4681-a0df-022a903c87c4)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
